@@ -1,0 +1,8 @@
+.user-detail-container {
+    width: 50%;
+    background-color: #CDDC39;
+    box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.75);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+}

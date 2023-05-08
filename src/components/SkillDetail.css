@@ -1,0 +1,13 @@
+.skill-detail-container {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.skill-background {
+    background-color: white;
+    width: fit-content;
+    border-radius: 10px;
+    padding: 10px;
+}

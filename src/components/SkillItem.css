@@ -1,0 +1,24 @@
+.skill {
+    border-radius: 100px;
+    background-color: black;
+    width: fit-content;
+    padding: 5px 15px;
+    margin: 5px;
+    color: white;
+    font-size: 14px;
+}
+
+.skill:hover {
+    background-color: #7D7F87;
+}
+
+.active {
+    background-color: #7D7F87;
+}
+
+.active-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
